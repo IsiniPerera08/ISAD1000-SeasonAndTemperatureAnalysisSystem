@@ -1,6 +1,6 @@
 # Season and Temperature Analysis System
 
-Project was developed for the ISAD1000 assignment using Java. The system includes modules related to season finding, temperature checking, modular design, testing, and version control.
+Project was developed using Java. The system includes modules related to season finding, temperature checking, modular design, testing, and version control.
 
 ## Project file contains
 - code ->Java running code files for temperature, season and the menu and test harnesses.
@@ -13,10 +13,6 @@ Project was developed for the ISAD1000 assignment using Java. The system include
 - SeasonTestHarness.java -> A test harness to test out the SeasonFinder modularities
 - TemperatureTestHarness.java -> A test harness to test out the TemperatureChecker modularities
 
-#### documents file contains
-- 23601321_Isini_Perera_ISE2026S1.md -> it is the markdown file of the report
-- 23601321_Isini_Perera_ISE2026S1.pdf -> the pdf file of the report
-- screenshots folder -> contains all the screenshots that was inserted onto the report for reference
 
 #### corrupted_repository_backup.zip file contains
 - this file contains the backup of the previous repository that became corrupted the day before the submission date. The corrupted repository files were included for reference purposes to show the original repository and commit history.
