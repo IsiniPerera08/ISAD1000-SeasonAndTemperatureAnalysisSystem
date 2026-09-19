@@ -1,9 +1,3 @@
-/*
-Name: Isini Ayansa Perera
-Student ID: 23601321
-Purpose: test harness file used to implement and execute test cases related to the SeasonFinder methods
-*/
-
 public class SeasonTestHarness {
     static SeasonFinder seasonFind= new SeasonFinder();
     static int passed= 0;
