@@ -1,9 +1,3 @@
-/*
-Name: Isini Ayansa Perera
-Student ID: 23601321
-Purpose: contains modules and methods related to temperature checking functionalities and validates the inputs of the user
-*/
-
 import java.io.*;
 import java.util.Scanner;
 
