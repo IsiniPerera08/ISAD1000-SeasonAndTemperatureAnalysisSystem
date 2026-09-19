@@ -1,9 +1,3 @@
-/*
-Name: Isini Ayansa Perera
-Student ID: 23601321
-Purpose: Main menu file used to run and access the functionalities of the program.
-
-*/
 import java.io.*;
 import java.util.Scanner;
 
