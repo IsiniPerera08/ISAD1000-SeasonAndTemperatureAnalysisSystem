@@ -1,7 +1,4 @@
 # Season and Temperature Analysis System
-##### Name: Isini Ayansa Perera
-##### Student ID: 23601321
-
 
 Project was developed for the ISAD1000 assignment using Java. The system includes modules related to season finding, temperature checking, modular design, testing, and version control.
 
