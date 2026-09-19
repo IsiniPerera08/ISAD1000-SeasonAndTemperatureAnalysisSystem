@@ -1,10 +1,4 @@
 # Season and Temperature Analysis Program Report
-### *ISAD1000- Assignment*
-#### *Name: Isini Ayansa Perera* 
-#### *Student Id: 23601321*
----
-
-
 ## 1. Introduction
 
 This report explains the overall design, implementation, testing, and documentation process completed for this assignment. The project was mainly developed using Java and focuses on two systems called SeasonFinder and TemperatureChecker. Different modules and submodules were created by applying the modularity concepts taught during lectures and worksheets.
