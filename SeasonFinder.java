@@ -1,9 +1,3 @@
-/*
-Name: Isini Ayansa Perera
-Student ID: 23601321
-Purpose: Contains the methods related to the season finding functionalities and validates user input
-*/
-
 public class SeasonFinder{
   public boolean isValidCountry(String country){
     String[] isCountries ={"australia","spain","japan","mauritius","malaysia","sri lanka"};
