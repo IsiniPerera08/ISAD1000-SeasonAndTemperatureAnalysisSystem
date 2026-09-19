@@ -1,9 +1,9 @@
 # Season and Temperature Analysis Program Report
 ## 1. Introduction
 
-This report explains the overall design, implementation, testing, and documentation process completed for this assignment. The project was mainly developed using Java and focuses on two systems called SeasonFinder and TemperatureChecker. Different modules and submodules were created by applying the modularity concepts taught during lectures and worksheets.
+This report explains the overall design, implementation, testing, and documentation process completed. The project was mainly developed using Java and focuses on two systems called SeasonFinder and TemperatureChecker. Different modules and submodules were created by applying the modularity concepts taught during lectures and worksheets.
 
-Throughout this assignment, production code was implemented together with different testing methods such as equivalence partitioning, boundary value analysis, and white-box testing. Java test harnesses were also created to execute and verify the test cases. Git version control was used during the development process to manage and track changes made to the project files.
+Throughout this, production code was implemented together with different testing methods such as equivalence partitioning, boundary value analysis, and white-box testing. Java test harnesses were also created to execute and verify the test cases. Git version control was used during the development process to manage and track changes made to the project files.
 
 This report includes the module descriptions, implementation details, testing designs, test execution results, version control activities, and a final discussion about the work completed, challenges faced, and possible future improvements.
 
